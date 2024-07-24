@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DavidF-22
-- 👀 I’m interested in Nanothechnology, Cybernetics, Coding, Gaming, Cyberpunk, Sci-fi, Robotics, Raspberry Pis, Linux, Networks, Server Maniment and Hacking both Blue and Red Teaming.
-- 🌱 I’m currently learning Artificial Intelligence in University
+- 👋 Hello There, I’m @DavidF-22
+- 👀 I’m interested in Nanotechnology, Cybernetics, Cyberpunk, Cybersecurity, Coding, Gaming, Sci-fi, Robotics, Raspberry Pis, Linux, Networks, Server Management and Hacking, both Blue and Red Teaming.
+- 🌱 I’m currently learning Artificial Intelligence at University
 
 <!---
 DavidF-22/DavidF-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
