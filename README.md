@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello There, I’m @DavidF-22<br>👀 I’m interested in Nanotechnology, Cybernetics, Cyberpunk, Cybersecurity, Coding, Gaming, Sci-fi, Robotics, Raspberry Pis, Linux, Networks, Server Management and Hacking, both Blue and Red Teaming.<br>🌱 I’m a student undergoing the Artificial Intelligence course at the University of Malta<br>📚 Currently focusing on my Final Year Project
+👋 Hello There, I’m @DavidF-22<br>👀 I’m interested in Nanotechnology, Cybernetics, Cyberpunk, Cybersecurity, Coding, Gaming, Sci-fi, Robotics, Raspberry Pis, Arduinos, Linux, Networks, Server Management and Hacking, both Blue and Red Teaming.<br>🌱 I’m a student undergoing the Artificial Intelligence course at the University of Malta<br>📚 Currently focusing on my Final Year Project
 
 
 # 💻 Tech Stack:
