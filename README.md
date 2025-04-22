@@ -2,15 +2,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial_Intelligence_(AI)-%23008DFF.svg?style=for-the-badge&color=blue&logo=robotframework&logoColor=white">
   <img src="https://img.shields.io/badge/Machine_Learning_(ML)-%23FF6F00.svg?style=for-the-badge&color=orange&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Automation-%23FF5733.svg?style=for-the-badge&color=firebrick&logo=amazonec2&logoColor=white">
   <img src="https://img.shields.io/badge/Deep_Learning_(DL)-%23FF5733.svg?style=for-the-badge&color=forestgreen&logo=grapheneos&logoColor=white">
+  <img src="https://img.shields.io/badge/Automation-%23FF5733.svg?style=for-the-badge&color=firebrick&logo=amazonec2&logoColor=white">
 </p>
 
 ## 👨‍💻 About Me:
 
 Currently I'm a full-time thrid-year student at the [University of Malta](https://www.um.edu.mt/) majoring in Aritificial Intelligence with projects in Computer Vision, Robotics and Bioinformatics. Bioinformatics being the focus of my Final Year Project (FYP) 
 
-My interests range from AI and robotics to hands-on projects with microcontrollers, onboard computers, cybernetics and 3D modeling. In addition to my technical side, I make time to unwind through gaming playing games like Ghostrunner, Factorio and Cyberpunk 2077. I'm deeply passionate about AI-based applications, and I enjoy diving into them to tackle real-world challenges and push the boundaries of what's possible.
+My interests range from AI and robotics to hands-on projects with microcontrollers, onboard computers, cybernetics and 3D modeling. In addition to my technical side, I make time to unwind through gaming playing games like Ghostrunner, Factorio and Cyberpunk 2077. I'm deeply passionate about AI-based applications and I like diving into them to tackle real-world challenges and push the boundaries of what's possible.
 
 ## 💻 Tech Stack:
 
