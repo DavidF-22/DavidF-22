@@ -38,7 +38,7 @@ You can reach me at my university email: [david.farrugia.22@um.edu.mt](mailto:da
 🎮 PC Gaming  
 🔧 Tinkering with circuits and automation  
 ☕ Chugging cups of coffee  
-💿 Experimenting with operating systems and servers
+💿 Experimenting with operating systems and servers  
 🖥️ Building and Dismantling PCs
 
 ---
