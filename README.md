@@ -16,7 +16,7 @@ You can reach me at my university email: [david.farrugia.22@um.edu.mt](mailto:da
 
 ## 💻 Tech Stack:
 
-**Languages:** C#, C++, Java, Python, R, Bash, PHP, SQL  
+**Languages:** C#, C++, Java, Python3, R, Bash, PHP, SQL  
 **AI/ML Frameworks:** TensorFlow, PyTorch, Keras, OpenCV  
 **Web Development & Tools:** HTML5, CSS, JavaScript, Bootstrap, Flask, Apache, MySQL  
 **Version Control:** GitHub, GitLab, Git  
