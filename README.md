@@ -12,6 +12,12 @@ Currently I'm a full-time thrid-year student at the [University of Malta](https:
 
 My interests range from AI and robotics to hands-on projects with microcontrollers, onboard computers, cybernetics and 3D modeling. In addition to my technical side, I make time to unwind through gaming playing games like Ghostrunner, Factorio and Cyberpunk 2077. I'm deeply passionate about AI-based applications and I like diving into them to tackle real-world challenges and push the boundaries of what's possible.
 
+You can reach me at my university email: [david.farrugia.22@um.edu.mt](mailto:david.farrugia.22@um.edu.mt).​
+
+
+<a href="mailto:david.farrugia.22@um.edu.mt" style="color: red;">david.farrugia.22@um.edu.mt</a>
+
+
 ## 💻 Tech Stack:
 
 **Languages:** C#, C++, Java, Python, R, Bash, PHP, SQL  
@@ -27,11 +33,11 @@ My interests range from AI and robotics to hands-on projects with microcontrolle
     <img src="https://github-readme-stats.vercel.app/api?username=DavidF-22&show_icons=true&theme=dark" height="180">
   </a>
   <a href="https://github.com/DavidF-22">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidF-22&layout=compact&theme=dark" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidF-22&layout=compact&theme=dark&langs_count=6" height="180">
   </a>
 </p>
 
-## 🤓 When AFK
+## 🍵 When AFK
 
 When not aggressivly typing, I'm most probably:
 
