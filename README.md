@@ -33,15 +33,13 @@ You can reach me at my university email: [david.farrugia.22@um.edu.mt](mailto:da
   </a>
 </p>
 
-## 🍵 When AFK
+## 🍵 Hobbies
 
-When not aggressivly typing, I'm most probably:
-
-- 🎮 Gaming and getting lost in new worlds  
-- 🔧 Tinkering with circuits and automation using Arduinos/Raspberry Pis  
-- ☕ Chugging cups of coffee  
-- 🖥️ Experimenting with operating systems and server management
+🎮 PC Gaming  
+🔧 Tinkering with circuits and automation  
+☕ Chugging cups of coffee  
+💿 Experimenting with operating systems and servers
+🖥️ Building and Dismantling PCs
 
 ---
-
 > _**Note:** Profile was inspired by the style and structure of [AFLucas-UOM's](https://github.com/AFLucas-UOM#--hey-there-im-andrea-filiberto-lucas-) profile page._
