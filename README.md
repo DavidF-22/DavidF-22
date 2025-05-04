@@ -33,7 +33,7 @@ You can reach me at my university email: [david.farrugia.22@um.edu.mt](mailto:da
   </a>
 </p>
 
-## 🍵 Hobbies
+## 🎱 Hobbies
 
 🎮 PC Gaming  
 🔧 Tinkering with circuits and automation  
