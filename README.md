@@ -12,7 +12,7 @@ Currently I'm a full-time thrid-year student at the [University of Malta](https:
 
 My interests range from AI and robotics to hands-on projects with microcontrollers, onboard computers, cybernetics and 3D modeling. In addition to my technical side, I make time to unwind through gaming playing games like Ghostrunner, Factorio and Cyberpunk 2077. I'm deeply passionate about AI-based applications and I like diving into them to tackle real-world challenges and push the boundaries of what's possible.
 
-You can reach me at my university email: [david.farrugia.22@um.edu.mt](mailto:david.farrugia.22@um.edu.mt)
+You can reach me using my university email: [david.farrugia.22@um.edu.mt](mailto:david.farrugia.22@um.edu.mt)
 
 ## 💻 Tech Stack:
 
