@@ -23,17 +23,6 @@ You can reach me using my university email: [david.farrugia.22@um.edu.mt](mailto
 **Version Control:** GitHub, GitLab, Git  
 **Other Tools & Libraries:** LaTeX, JSON
 
-## 📊 GitHub Stats:
-
-<div align="center">
-  <a href="https://github.com/DavidF-22">
-    <img src="https://github-readme-stats.vercel.app/api?username=DavidF-22&show_icons=true&theme=dark" height="180">
-  </a>
-  <a href="https://github.com/DavidF-22">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidF-22&layout=compact&theme=dark&langs_count=6" height="180">
-  </a>
-</div>
-
 ## 🎱 Hobbies
 
 🎮 PC Gaming  
