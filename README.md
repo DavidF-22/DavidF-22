@@ -9,9 +9,9 @@
 
 ## 👨‍💻 About Me:
 
-I am currently a part-time first-year M.Sc. student in Artificial Intelligence at the [University of Malta](https://www.um.edu.mt/) with projects in Computer Vision, Robotics and Bioinformatics. Bioinformatics being the focus of my Final Year Project (FYP)
+I am currently a part-time first-year M.Sc. student in Artificial Intelligence at the [University of Malta](https://www.um.edu.mt/) with projects in Computer Vision, Robotics, IoT and NLP.
 
-My interests range from AI and robotics to hands-on projects with microcontrollers, onboard computers, cybernetics and 3D modeling. In addition to my technical side, I make time to unwind through gaming playing games like Ghostrunner, Factorio and Cyberpunk 2077. I'm deeply passionate about AI-based applications and I like diving into them to tackle real-world challenges and push the boundaries of what's possible.
+My interests range from AI, robotics, Biomedical Engineering and Cybernetics to hands-on projects with microcontrollers, onboard computers, cybernetics and 3D modeling. In addition to my technical side, I make time to unwind through gaming playing games like Ghostrunner, Factorio and Cyberpunk 2077. I'm deeply passionate about AI-based applications and I like diving into them to tackle real-world challenges and push the boundaries of what's possible.
 
 You can reach me using my university email: [david.farrugia.22@um.edu.mt](mailto:david.farrugia.22@um.edu.mt)
 
