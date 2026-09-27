@@ -53,19 +53,19 @@ Some of my side projects and experiments include:
 
 ## 🚀 Some of My Work
 
-### [🗣️ Applied Natural Language & Speech Processing](https://github.com/DavidF-22/ARI5121-AppliedNLP_Project)
+### 🗣️ [Applied Natural Language & Speech Processing](https://github.com/DavidF-22/ARI5121-AppliedNLP_Project)
 
 University work covering both **text processing and speech processing**, including practical NLP pipelines and experimentation.
 
-### [🌐 Internet of Things Project](https://github.com/DavidF-22/ICT5101-IoT_Project)
+### 🌐 [Internet of Things Project](https://github.com/DavidF-22/ICT5101-IoT_Project)
 
 An IoT-focused project exploring **connected devices, sensors, embedded systems and software**, with an emphasis on collecting and processing real-world data through an integrated IoT system.
 
-### [👁️ Deep Learning for Computer Vision](https://github.com/DavidF-22/ARI5118-DeepLearningCV_Project)
+### 👁️ [Deep Learning for Computer Vision](https://github.com/DavidF-22/ARI5118-DeepLearningCV_Project)
 
 A Computer Vision project focused on applying **Deep Learning techniques to image-based tasks**, using modern machine learning and computer vision workflows.
 
-### [🧬 Development of Machine Learning Methods for microRNA target site classification](https://github.com/DavidF-22/ICS3909-FYP)
+### 🧬 [Development of Machine Learning Methods for microRNA target site classification](https://github.com/DavidF-22/ICS3909-FYP)
 
 My undergraduate Final Year Project explored machine learning techniques for **microRNA target site classification**.
 
