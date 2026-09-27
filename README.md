@@ -1,32 +1,83 @@
-<h1 align="center">Hello There, I'm David Farrugia 🤖</h1>
 <div align="center">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence_(AI)-%23008DFF.svg?style=for-the-badge&color=blue&logo=robotframework&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine_Learning_(ML)-%23FF6F00.svg?style=for-the-badge&color=orange&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Deep_Learning_(DL)-%23FF5733.svg?style=for-the-badge&color=forestgreen&logo=grapheneos&logoColor=white"> <br>
-  <img src="https://img.shields.io/badge/Automation-%23FF5733.svg?style=for-the-badge&color=purple&logo=gnubash&logoColor=white">
-  <a href="https://www.um.edu.mt/courses/overview/pmsciaripet7-2025-6-o/" target="_blank"><img src="https://img.shields.io/badge/M.Sc. in AI-%23FF5733.svg?style=for-the-badge&color=firebrick&logo=wikibooks&logoColor=white"></a>
+
+# Hello There, I'm David 👋🤖
+
+### Graduate Engineer | M.Sc. Artificial Intelligence
+
 </div>
+
 
 ## 👨‍💻 About Me:
 
-I am currently a part-time first-year M.Sc. student in Artificial Intelligence at the [University of Malta](https://www.um.edu.mt/) with projects in Computer Vision, Robotics, IoT and NLP.
+I'm a **Graduate Engineer at KPMG MBS Malta** and a part-time **M.Sc. Artificial Intelligence student at the University of Malta** with a focus on **Biomedical Signal Processing**.
 
-My interests range from AI, robotics, Biomedical Engineering and Cybernetics to hands-on projects with microcontrollers, onboard computers, cybernetics and 3D modeling. In addition to my technical side, I make time to unwind through gaming playing games like Ghostrunner, Factorio and Cyberpunk 2077. I'm deeply passionate about AI-based applications and I like diving into them to tackle real-world challenges and push the boundaries of what's possible.
+I'm interested in the point where **AI, software and hardware start overlapping**.
 
-You can reach me using my university email: [david.farrugia.22@um.edu.mt](mailto:david.farrugia.22@um.edu.mt)
+A lot of what I work on comes from asking *"Could I actually build this"* and then inevitably ending up with Python, an Arduino, a pile of components, several browser tabs and considerably more coffee than I started with.
 
-## 💻 Tech Stack:
 
-**Languages:** C#, C++, Java, Python3, R, Bash, PHP, SQL  
-**AI/ML Frameworks:** TensorFlow, PyTorch, Keras, OpenCV  
-**Web Development & Tools:** HTML5, CSS, JavaScript, Bootstrap, Flask, Apache, MySQL  
-**Version Control:** GitHub, GitLab, Git  
-**Other Tools & Libraries:** LaTeX, JSON
+## 🔧 I Like tinkering
 
-## 🎱 Hobbies
+I enjoy experimenting with hardware, electronics and systems where code has some kind of effect on the physical world.
 
-🎮 PC Gaming  
-🔧 Tinkering with circuits and automation  
-☕ Chugging cups of coffee  
-💿 Experimenting with operating systems and servers  
-🖥️ Building and Dismantling PCs
+Some of my side projects and experiments include:
+
+- 🤖 **Robotics & Microcontrollers** - Arduino, ESP32, sensors, servos and automation
+- 🖨️ **3D Printing & Modelling** - designing and prototyping parts for projects
+- 🖥️ **Servers & Local AI** - experimenting with Linux, WSL, GPUs, self-hosting and local models
+- ⚙️ **PC Hardware** - building, upgrading and inevitably dismantling computers
+
+
+## 🛠️ Technologies I Work With
+
+### Languages
+
+`Python` `C#` `C++` `Java` `SQL` `R` `Bash` `JavaScript` `PHP`
+
+### AI / Machine Learning
+
+`PyTorch` `TensorFlow` `OpenCV` `scikit-learn` `MNE`
+
+### Data & Engineering
+
+`Power BI` `Databricks` `Synapse` `MySQL` `Git` `GitHub` `GitLab`
+
+### Hardware & Systems
+
+`Arduino` `ESP32` `Linux` `WSL` `Docker` `3D Printing`
+
+### Web
+
+`HTML` `CSS` `JavaScript` `Apache & Flask` `Bootstrap`
+
+
+## 🚀 Some of My Work
+
+### [🗣️ Applied Natural Language & Speech Processing](https://github.com/DavidF-22/ARI5121-AppliedNLP_Project)
+
+University work covering both **text processing and speech processing**, including practical NLP pipelines and experimentation.
+
+### [🌐 Internet of Things Project](https://github.com/DavidF-22/ICT5101-IoT_Project)
+
+An IoT-focused project exploring **connected devices, sensors, embedded systems and software**, with an emphasis on collecting and processing real-world data through an integrated IoT system.
+
+### [👁️ Deep Learning for Computer Vision](https://github.com/DavidF-22/ARI5118-DeepLearningCV_Project)
+
+A Computer Vision project focused on applying **Deep Learning techniques to image-based tasks**, using modern machine learning and computer vision workflows.
+
+### [🧬 Development of Machine Learning Methods for microRNA target site classification](https://github.com/DavidF-22/ICS3909-FYP)
+
+My undergraduate Final Year Project explored machine learning techniques for **microRNA target site classification**.
+
+
+## 🎮 Outside of Work
+
+When I'm not staring at code or wiring something incorrectly on a breadboard, you'll probably find me:
+
+- 🎮 Playing games - especially **Cyberpunk 2077, Ghostrunner, Factorio, Minecraft**
+- 🖨️ Designing or printing something I convinced myself I needed
+- 🔧 Tinkering with electronics
+- 🤖 Experimenting with AI models
+- 🖥️ Messing around with operating systems, servers and PCs
+- 🎵 Listening to music
+- ☕ Converting coffee into questionable decisions
